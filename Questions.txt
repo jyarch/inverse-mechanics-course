@@ -1,0 +1,2 @@
+Questions
+1. Do inverse problems never have a solution since everything is an approximation? What are the ways to prove that the inverse problem solution is correct?
